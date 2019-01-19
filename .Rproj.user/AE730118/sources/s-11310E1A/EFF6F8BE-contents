@@ -1,0 +1,44 @@
+          # create your first function
+          
+          f <- function(){
+           # this is an empty function
+          }
+          
+          f()
+
+          
+          f <- function(){
+           print("Hello") 
+          }
+          f()
+          
+          # function with an argument
+          
+          f1 <- function(num){
+            
+            for(i in seq_len(num)){
+              print("You are doing good")
+            }
+          }
+          
+          f1(3)
+          
+          
+           
+           
+           
+           f1 <- function(num = 1){ # passing default argument
+             if(num <=1){
+                print("Executing the code with default value")
+                print("You are doing good")
+               }
+             else{
+               for(i in seq_len(num)){
+                 print("You are doing good")
+               }
+             }
+           }
+          f1(3)
+          
+          ? rnorm()
+           
