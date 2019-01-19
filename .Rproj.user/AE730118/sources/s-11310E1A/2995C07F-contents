@@ -1,0 +1,32 @@
+
+
+#Integer
+a <- 10L
+#Double
+b <- 20.7
+#Complex
+ci <- 5+10i
+#Character
+c <- 'R'
+c1 <- 'R Programming'
+#Logical
+l <- T
+l1 <- F
+l3 <- TRUE
+l4 <- FALSE
+
+
+typeof(a)
+
+typeof(b)
+
+typeof(ci)
+
+typeof(c)
+
+typeof(c1)
+
+typeof(l)
+
+
+
