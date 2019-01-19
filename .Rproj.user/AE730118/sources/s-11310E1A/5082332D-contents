@@ -1,0 +1,13 @@
+                      
+
+
+
+
+
+
+                      #Character
+                      ch1 <- "Welcome"
+                      ch2 <- "To"
+                      ch3 <- "CodeInfo.Net"
+                      chResult <- paste(ch1, ch2, ch3)
+                      chResult
