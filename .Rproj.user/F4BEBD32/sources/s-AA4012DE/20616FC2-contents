@@ -46,5 +46,17 @@ cbindMatrix <- cbind(c1,c2)
 cbindMatrix
 
 
+Games
+
+rownames(Games)
+colnames(Games)
+
+
+FieldGoals/Games
+
+round(FieldGoals/Games,1)
+
+
+
 #Hope you have understood it!! Thanks!!
 #Happy Coding!!
